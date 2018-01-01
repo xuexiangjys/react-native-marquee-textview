@@ -1,0 +1,25 @@
+{
+  "name": "react-native-marquee-textview",
+  "version": "1.0.0",
+  "description": "Android滚动字幕，支持动态添加和删除，支持消息数据的更新",
+  "main": "marquee.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuexiangjys/react-native-marquee-textview.git"
+  },
+  "keywords": [
+    "marqueetextview"
+  ],
+  "author": "xuexiangjys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuexiangjys/react-native-marquee-textview/issues"
+  },
+  "homepage": "https://github.com/xuexiangjys/react-native-marquee-textview#readme"
+}
